@@ -9,32 +9,24 @@
     "type": "image"
   },
   {
-    "title": "BY THE NUMBERS: CENTRAL AND WEST ASIA",
-    "symbol": "$",
-    "digit": 6.6,
-    "letter": "B",
-    "tag": "COMMITTED",
-    "type": "currencyCounter"
-  },
-  {
-    "symbol": "$",
-    "digit": 4.0,
-    "letter": "B",
-    "tag": "COVID‑19 RESPONSE",
-    "type": "currencyCounter"
-  },
-  {
-    "symbol": "$",
-    "digit": 5.3,
-    "letter": "B",
-    "tag": "DISBURSED",
-    "type": "currencyCounter"
-  },
-  {
-    "symbol": "$",
-    "digit": 3.7,
-    "letter": "B",
-    "tag": "COFINANCED",
+    "title": "In 2020, ADB’s commitments in this region were primarily in the following sectors:",
+
+    "digit1": 34,
+    "tag1": "PUBLIC SECTOR MANAGEMENT",
+
+    "digit2": 15,
+    "tag2": "INDUSTRY AND TRADE",
+
+    "digit3": 14,
+    "tag3": "FINANCE",
+
+    "digit4": 11,
+    "tag4": "TRANSPORT",
+
+    "digit5": 10,
+    "tag5": "HEALTH",
+
+    "sign": "%",
     "type": "currencyCounter"
   },
   {
@@ -111,22 +103,22 @@
 
   {
     "data": "Addressing Remaining Poverty and<br>Reducing Inequalities",
-    "image":"op1_color.png",
+    "image": "op1_color.png",
     "type": "logoHeading"
   },
   {
     "data": "As part of its comprehensive support to help Georgia mitigate the impacts of the pandemic, ADB provided a policy-based loan of $201.7 million for a fiscal resilience and social protection support program. The program supports government reforms to the national pension scheme, benefiting senior citizens and improving other  social protection systems to promote Georgia’s return to inclusive economic growth. ADB also committed $50 million in integrated budget support to help the Kyrgyz Republic mitigate the health, social, and economic impacts of COVID‑19.",
-    "type": "paragraph" 
+    "type": "paragraph"
   },
   {
-    "data":"In Afghanistan, ADB committed $40 million for the construction and rehabilitation of 15 hospitals and medical facilities, adding more than 1,100 new hospital beds. In Armenia, additional financing of $550,000 committed from the High-Level Technology Fund will support telemedicine and a human resources information system for the health sector. ADB committed $100 million to support the testing, surveillance, and case management of COVID‑19 in Uzbekistan. The bank also committed a technical assistance package of $4.3 million to support digital health pilots in response to COVID‑19 in <a href='https://www.adb.org/countries/subregional-programs/carec' target='_blank'>Central Asia Regional Economic Cooperation</a> (CAREC) countries and the Caucasus.",
-    "type":"paragraph"
+    "data": "In Afghanistan, ADB committed $40 million for the construction and rehabilitation of 15 hospitals and medical facilities, adding more than 1,100 new hospital beds. In Armenia, additional financing of $550,000 committed from the High-Level Technology Fund will support telemedicine and a human resources information system for the health sector. ADB committed $100 million to support the testing, surveillance, and case management of COVID‑19 in Uzbekistan. The bank also committed a technical assistance package of $4.3 million to support digital health pilots in response to COVID‑19 in <a href='https://www.adb.org/countries/subregional-programs/carec' target='_blank'>Central Asia Regional Economic Cooperation</a> (CAREC) countries and the Caucasus.",
+    "type": "paragraph"
   },
-{
-  "data":"cwrd_photo2.jpg",
-  "tag":"An Afghan health specialist works in the laboratory of the Afghan–Japan special hospital for COVID‑19 patients in Kabul. ADB committed $40 million to help construct and upgrade 15 hospitals and medical facilities in the country.",
-  "type":"image"
-},
+  {
+    "data": "cwrd_photo2.jpg",
+    "tag": "An Afghan health specialist works in the laboratory of the Afghan–Japan special hospital for COVID‑19 patients in Kabul. ADB committed $40 million to help construct and upgrade 15 hospitals and medical facilities in the country.",
+    "type": "image"
+  },
   {
     "data": "ADB committed a $30 million grant to Tajikistan to strengthen the skills of young people, women, and labor migrants to improve their employability and wages, and to enhance the capacity of employment and migration agencies. The project will build and equip three new migration service centers and three new “model job centers” for more-focused skills training. It will also help develop a new national classification of occupations based on international standards for skills.",
     "type": "paragraph"
@@ -139,7 +131,7 @@
   {
     "data": "Accelerating Progress<br>in Gender Equality",
     "image": "op2_color.png",
-    "type":"logoHeading"
+    "type": "logoHeading"
   },
 
   {
@@ -212,7 +204,7 @@
     "data": "To strengthen food security in Afghanistan during the pandemic, ADB reallocated $10 million from a horticulture value chain project and an integrated water resources project to help construct vegetable storage, solar dryers for fruit and vegetables, and other on-farm equipment. These investments have helped about 2,000 vulnerable farming households continue to make a living despite disrupted supply chains.",
     "type": "paragraph"
   },
-  
+
   {
     "data": "In Pakistan, ADB knowledge support and technical assistance will help address the locust infestation crisis and mitigate other hazards by using data collection technologies to monitor crop production and market prices. These data can then be disseminated to the government and rural communities to help assess the performance of Pakistan’s food security institutions and help build a long-term and sustainable food security system.",
     "type": "paragraph"
@@ -251,7 +243,7 @@
     "data": "In Kazakhstan, ADB committed $150 million to foster regional connectivity in an area of the country with low market accessibility. The project will upgrade an existing two-lane 89-kilometer road built in the 1970s to a modern four-lane highway, reducing travel time from Aktobe to Kandyagash by 5 hours. This roadway links to CAREC corridors that connect Kazakhstan to the People’s Republic of China, the Russian Federation, and Europe.",
     "type": "paragraph"
   },
-  
+
   {
     "data": "The CAREC program incorporated COVID‑19 response into existing initiatives on disaster risk management,tourism, and health. The program approved gender and tourism strategies and adopted a new results framework to monitor progress. It also launched regional initiatives for health cooperation, food safety, water resources management, and the promotion of start-up enterprises and technology.",
     "type": "paragraph"
@@ -295,9 +287,9 @@
     "type": "paragraph"
   },
   {
-    
-      "data": "NEXT:EAST ASIA",
-      "type": "button"
+
+    "data": "NEXT:EAST ASIA",
+    "type": "button"
   }
 
 

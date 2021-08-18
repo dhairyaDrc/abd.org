@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-menu-bar',
@@ -7,7 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MenuBarComponent implements OnInit {
 
-  constructor() { }
+  constructor(
+    private router: Router
+  ) { }
 
   isShowMenu = false;
   isSocialMenu = false;
@@ -21,6 +24,26 @@ export class MenuBarComponent implements OnInit {
   
   openSocialMenu(){
     this.isSocialMenu ? this.isSocialMenu = false : this.isSocialMenu = true;
+  }
+
+  goToPresidentsMessage(){
+    this.router.navigate(['/presidents-message']);
+  }
+
+  goToBoardOfDirectors(){
+    this.router.navigate(['/board-of-directors']);
+  }
+
+  goToFinancialHighlights(){
+    this.router.navigate(['/financial-highlights']);
+  }
+
+  goToReport(){
+    this.router.navigate(['/report']);
+  }
+
+  goToAppendixes(){
+    this.router.navigate(['/appendixes-content']);
   }
   
 }
