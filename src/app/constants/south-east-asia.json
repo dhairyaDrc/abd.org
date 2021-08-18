@@ -308,7 +308,8 @@
         "type":"paragraph"
        },
        {
-        "data": "Next:Chapter 3 ",
+         "title": "Next",
+         "data": "Chapter 3",
         "type": "button"
       }
 ]

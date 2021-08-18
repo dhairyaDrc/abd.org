@@ -275,9 +275,9 @@
     "image": "private_smallbox.png",
     "type": "shadeKnowledgeTwo"
   },
-
   {
-    "data": "Next: Chapter 4",
+    "title": "NEXT",
+    "data": "Chapter 4",
     "type": "button"
   }
 ]
