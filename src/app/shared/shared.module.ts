@@ -58,7 +58,9 @@ import { SingleHeadingComponent } from './components/single-heading/single-headi
     RegionHeadingComponent,
     MenuBarComponent,
     AppendixesListComponent,
-    SingleHeadingComponent
+    SingleHeadingComponent,
+   
+    
   
   ],
   imports: [
@@ -93,7 +95,8 @@ import { SingleHeadingComponent } from './components/single-heading/single-headi
     HorizontalGraphChartComponent,
     RegionHeadingComponent,
     MenuBarComponent,
-    SingleHeadingComponent
+    SingleHeadingComponent,
+    
 
   ]
 })

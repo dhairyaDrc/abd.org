@@ -23,7 +23,7 @@ import { MessageComponent } from './message/message.component';
     AppendixesContentComponent,
     FinancialHighlightsComponent,
     BoardOfDirectorsComponent,
-    MessageComponent
+    MessageComponent,
   ],
 
   imports: [
