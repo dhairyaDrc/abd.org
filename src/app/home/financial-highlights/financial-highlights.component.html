@@ -1,0 +1,33 @@
+<div class="content">
+  <div class="simpleheader">
+    <h2>
+      {{title}}
+    </h2>
+  </div>
+  <div class="numbers">
+    <h3>
+      {{subTitle}}
+    </h3>
+    <div class="numbersgroup">
+      <div *ngFor="let data of homeData" class="contentCard">
+        <app-counter-card  *ngIf="data.type == 'counter-card'" style="width: 100px;" [duration]="1500" [digit]="data.money" [data]="data.data"
+          [currency]="data.currency" [money]="data.money" [letter]="data.letter" [id]="data.id"></app-counter-card>
+          <app-charts [data]="data.data" *ngIf="data.type=='chart'"></app-charts>
+      </div>
+    </div>
+  </div>
+
+    <div *ngFor="let item of value" class="fix" style="text-align: center; margin-top: -125px;">
+        <br><br><br><br><br><br><br>
+        <!-- To Do [] Plz use NgStyle instead of ternary in style -->
+        <img [src]="item.image" style="{{item.isSmall ? 'width:50%' : 'width:100%'}}">
+    </div>
+    
+  <a href="#chapter1" class="next">
+    Next: Chapter 1 <span>&nbsp;›</span>
+  </a>
+</div>
+<!-- </div> -->
+<div>
+  <app-menu-bar></app-menu-bar>
+</div>

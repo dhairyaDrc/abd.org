@@ -1,0 +1,147 @@
+[
+    {
+        "chapterTitle": "REGIONS:ESOUTH ASIA",
+        "content": " Bangladesh, Bhutan, India, Maldives, Nepal, Sri Lanka",
+        "type": "title"
+    },
+    {
+        "image":"<img class='topimg' src='images/sard/sard_photo1.jpg'>",
+        "subcontent":"Children in India study by the light of off-grid solar power. ADB made further private sector investments in India’s solar power industry, including support to Avaada Energy Private Limited, which provides off-grid  solar facilities, and $65.5 million to the ENGIE group for a new 200-megawatt solar power plant in Gujarat.",
+        "type":"image"
+    },
+    {
+        "heading": "BY THE NUMBERS: South Asia",
+        "symbol":"$",
+        "digit1":9.0,
+        "tag1":"COMMITTED",
+        
+        "digit2":4.0,
+        "tag2":"COVID‑19<br>RESPONSE",
+       
+        "digit3":6.8,
+        "tag3":"DISBURSED",
+       
+        "digit4":4.4,
+        "tag4":"COFINANCED",
+
+        "tag":"B",
+        "type":"currencyCounter"
+    },
+    {
+        "data":"The economies of South Asia struggled during 2020 as COVID‑19 spread throughout the region, deeply affecting lives and livelihoods. Strict lockdowns disrupted economic activities, supply chains, and external demand. Countries that rely on international tourism, such as <a href='https://www.adb.org/countries/maldives/main' target='_blank'>Maldives</a>, <a href='https://www.adb.org/countries/nepal/main' target='_blank'>Nepal</a>,  and <a href='https://www.adb.org/countries/sri-lanka/main' target='_blank'>Sri Lanka</a>, were particularly hard  hit by border closures.",
+        "type":"paragraph"
+    },
+    {
+        "data":"Countries in South Asia quickly initiated emergency measures augmenting health-care systems, while providing  immediate relief through social protection systems to help guarantee food, housing, energy, and jobs to affected people, particularly the poor and vulnerable. South Asian countries announced policy packages totaling $428.5 billion or 12.7% of regional gross domestic product.",
+        "type":"paragraph"
+    },
+    {
+        "data":"Including technical assistance, ADB committed a total of $9.0 billion for the South Asia region in 2020, up  by 24% from 2019. Sovereign financing was complemented by $479.4 million support for 11 nonsovereign projects  for companies in the finance, energy, and agriculture sectors, particularly in <a href='https://www.adb.org/countries/india/main' target='_blank'>India</a> and <a href='https://www.adb.org/countries/bangladesh/main' target='_blank'>Bangladesh</a>, and $1.3  billion across three nonsovereign programs. Through its support for the private sector in South Asia, ADB  ensures that projects deliver on development goals while promoting environmental sustainability, social protection, and good governance.",
+        "type":"paragraph"
+    },
+    {
+        "data":"<a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.adb.org%2Far2020%2Fdigital&amp;via=ADB_HQ&amp;text=In%202020%2C%20ADB%20committed%20%249%20billion%20in%20South%20Asia%2C%20of%20which%20%244%20billion%20supported%20COVID-19%20response.&amp;hashtags=COVID19' title='Tweet this' target='_blank'>In 2020, ADB committed $9 billion in South Asia, of which $4 billion supported COVID-19 response.</a>",
+        "type":"tweet"
+    },
+    {
+        "data":"ADB’s COVID‑19 response in South Asia amounted to around 44% of its commitments in the region in 2020.Initially, technical assistance and <a href='https://www.adb.org/what-we-do/funds/asia-pacific-disaster-response-fund-apdrf' target='_blank'>Asia Pacific Disaster Response Fund</a> grants supported emergency procurement of medical supplies and personal protective equipment. ADB’s COVID‑19 Active Response and Expenditure Support (CARES) Program and emergency assistance loans totaling $2.4 billion followed.",
+        "type":"paragraph"
+    },
+
+    {
+        "heading": "In 2020, ADB’s commitments in this region were primarily in the following sectors: ",
+      
+        "digit1":22,
+        "tag1":"ENERGY",
+        
+        "digit2":20,
+        "tag2":"PUBLIC SECTOR MANAGEMENT",
+       
+        "digit3":15,
+        "tag3":"TRANSPORT",
+       
+        "digit4":14,
+        "tag4":"FINANCE",
+
+        "digit5":9,
+        "tag5":"WATER AND OTHER URBAN INFRASTRUCTURE SERVICES",
+
+        "symbol":"%",
+        "type":"currencyCounter"
+    },
+    {
+        "title":"STRATEGIC FOCUS",
+        "type":"heading"
+    },
+    {
+        "image":"<img src='images/sard/sard_s2030.png' class='s2030'>",
+        "type":"image"
+    },
+    {
+        "title":"Addressing Remaining Poverty and<br>Reducing Inequalities",
+        "type":"heading"
+    },
+    {
+        "data":"In South Asia, ADB addresses poverty and inequality through operations in agriculture and natural resources,  human development, and strengthening micro, small, and medium-sized enterprises (MSMEs). The bank is also progressively increasing assistance for education and skills development.",
+        "type":"paragraph"
+    },
+    {
+        "data":"In <a href='https://www.adb.org/countries/bhutan/main' target='_blank'>Bhutan</a>, 62% of the population lives in rural areas where agriculture is the primary source of livelihoods.  ADB is therefore supporting a rural finance development project through a $20 million concessional loan and $1  million in technical assistance to enhance access to finance for cottage and small industries, increasing  rural jobs and promoting economic development.",
+        "type":"paragraph"
+    },
+    {
+        "data":"ADB also committed $30 million for a program to develop financial markets in Bhutan. Using a policy-based loan to support the government’s institutional reforms, the program will assist economic diversification and  improve financial inclusion in the country.",
+        "type":"paragraph"
+    },
+    {
+        "data":"ADB committed a $1.5 billion CARES Program loan for India to support health initiatives and fund social  protection for more than 800 million people, including families below the poverty line, women, senior  citizens, people with disabilities, and low-wage earners, among others. The bank also supported India in strengthening the resilience of urban primary health systems for essential services as well as pandemic responses.",
+        "type":"paragraph"
+    },
+    {
+        "data":"In Maldives, ADB financed the establishment of COVID‑19 testing facilities in five regional hospitals,  doubled testing capacity to 800 per day, and provided 400 isolation beds. The program also supported  government social protection and economic assistance measures by providing safe accommodation for migrant  workers and survivors of gender-based violence, cash assistance and income support for the poor and vulnerable, and working capital support for affected businesses.",
+        "type":"paragraph"
+    },
+    {
+        "data":"<img src='images/sard/sard_photo2.jpg'>",
+        "tag    ":"Sri Lankan health workers carry out COVID‑19 testing in Colombo.",
+        "type":"image"
+    },
+    {
+        "data":"",
+        "type":"paragraph"
+    },
+    {
+        "data":"",
+        "type":"paragraph"
+    },
+    {
+        "data":"",
+        "type":"paragraph"
+    },
+    {
+        "data":"",
+        "type":"paragraph"
+    },
+
+        {
+        "data":"",
+        "type":"paragraph"
+    },
+        {
+        "data":"",
+        "type":"paragraph"
+    },
+    {
+        "data":"",
+        "type":"paragraph"
+    },
+        {
+        "data":"",
+        "type":"paragraph"
+    },
+
+    {
+        "data":"Next: South Asia ",
+        "type":"button"
+    }
+    ]

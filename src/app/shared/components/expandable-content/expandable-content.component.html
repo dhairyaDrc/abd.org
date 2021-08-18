@@ -1,0 +1,13 @@
+<div (click)="readMore()" class="shade story covid minimized" >
+    <h3>
+{{title}} 
+    </h3>
+
+
+    <p  *ngIf="!isExpand" class="clickhere" >
+    read more
+    </p>
+    <img src="assets/images/{{image}}">
+    <p  [ngClass]="{'displayBlock': isExpand}" [innerHTML]="data">
+    </p>
+    </div>
