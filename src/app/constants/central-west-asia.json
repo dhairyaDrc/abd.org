@@ -9,22 +9,19 @@
     "type": "image"
   },
   {
-    "title": "In 2020, ADB’s commitments in this region were primarily in the following sectors:",
+    "title": "BY THE NUMBERS: CENTRAL AND WEST ASIA",
 
-    "digit1": 34,
-    "tag1": "PUBLIC SECTOR MANAGEMENT",
+    "digit1": 6,
+    "tag1": "COMMITTED",
 
-    "digit2": 15,
-    "tag2": "INDUSTRY AND TRADE",
+    "digit2": 4,
+    "tag2": "COVID‑19 RESPONSE",
 
-    "digit3": 14,
-    "tag3": "FINANCE",
+    "digit3": 5,
+    "tag3": "DISBURSED",
 
-    "digit4": 11,
-    "tag4": "TRANSPORT",
-
-    "digit5": 10,
-    "tag5": "HEALTH",
+    "digit4": 3,
+    "tag4": "COFINANCED",
 
     "sign": "%",
     "type": "currencyCounter"
@@ -88,8 +85,8 @@
     "digit5": 10,
     "tag5": "HEALTH",
 
-    "symbol": "%",
-    "type": "currencyCounter2"
+    "sign": "%",
+    "type": "currencyCounter"
 
   },
   {

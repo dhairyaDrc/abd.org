@@ -64,21 +64,21 @@ export class MenuBarComponent implements OnInit {
         console.log("this.data",this.data);
         
       }else if (id == 4) {
-        this.data=chapter4CardJsonData;
+        this.router.navigate(['/report'], { queryParams: { id: 4 } });
       }else if (id == 3) {
-        this.data=chapter3CardJsonData;
+        this.router.navigate(['/report'], { queryParams: { id: 3 } });
       }else if (id == 2){
         this.router.navigate(['/chapter2']);
         } else if (id==10){
-          this.data=centralWestAsia;
+          this.router.navigate(['/report'], { queryParams: { id: 10 } });
         }else if (id==11){
-          this.data=eastAsia;
+          this.router.navigate(['/report'], { queryParams: { id: 11 } });
         }else if (id==12){
-          this.data=pacific;
+          this.router.navigate(['/report'], { queryParams: { id: 12 } });
         }else if (id==13){
-          this.data=southasia;
+          this.router.navigate(['/report'], { queryParams: { id: 13 } });
         }else if (id==14){
-          this.data=southeastasia;
+          this.router.navigate(['/report'], { queryParams: { id: 14 } });
         }
 
         this.showMenu();
