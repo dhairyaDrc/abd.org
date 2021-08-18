@@ -53,37 +53,35 @@ export class MenuBarComponent implements OnInit {
     this.router.navigate(['/financial-highlights']);
   }
 
-  goToReport(){
-    this.router.navigate(['/report']);
+  goToReport(id: number){
+    // this.router.navigate(['/report']);
+    
 
-    this.route.queryParams
-      .subscribe(params => {
-        console.log(params.id);
-
-        if (params.id == 1) {
-          this.data=chapter1JsonData;
-          console.log("this.data",this.data);
-          
-        }else if (params.id == 4) {
-          this.data=chapter4CardJsonData;
-        }else if (params.id == 3) {
-          this.data=chapter3CardJsonData;
-        }else if (params.id == 2){
-          this.router.navigate(['/chapter2']);
-        } else if (params.id==10){
+      
+      if (id == 1) {
+        // this.data=chapter1JsonData;
+        this.router.navigate(['/report'], { queryParams: { id: 1 } });
+        console.log("this.data",this.data);
+        
+      }else if (id == 4) {
+        this.data=chapter4CardJsonData;
+      }else if (id == 3) {
+        this.data=chapter3CardJsonData;
+      }else if (id == 2){
+        this.router.navigate(['/chapter2']);
+        } else if (id==10){
           this.data=centralWestAsia;
-        }else if (params.id==11){
+        }else if (id==11){
           this.data=eastAsia;
-        }else if (params.id==12){
+        }else if (id==12){
           this.data=pacific;
-        }else if (params.id==13){
+        }else if (id==13){
           this.data=southasia;
-        }else if (params.id==14){
+        }else if (id==14){
           this.data=southeastasia;
         }
 
-      }
-    );
+        this.showMenu();
   }
 
   goToAppendixes(){
