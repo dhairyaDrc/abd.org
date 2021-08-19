@@ -1067,7 +1067,7 @@ width:12rem;
 
 .shade.covid h3 {
 
-    /* background-image: url("../images/ui/covid_icon.png"); */
+    background-image: url("./assets/images/ui/covid_icon.png");
     background-repeat: no-repeat;
     background-position: left top;
     padding-left: 70px;
