@@ -29,15 +29,14 @@
   ],
   "dataGroups": [
     {
-      "name": "post",
+      "name": "images",
       "urls": [
-        "https://jsonplaceholder.typicode.com/posts"
+          "assets/*"
       ],
       "cacheConfig": {
-        "maxSize": 5,
-        "maxAge": "6h",
-        "timeout": "10s",
-        "strategy": "performance"
+          "strategy": "freshness",
+          "maxSize": 3000,
+          "maxAge": "1d"
       }
     }
   ]

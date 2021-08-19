@@ -28,6 +28,7 @@ import { CurrencyCounterComponent } from './components/currency-counter/currency
 import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
 import { AppendixesListComponent } from './components/appendixes-list/appendixes-list.component';
 import { SingleHeadingComponent } from './components/single-heading/single-heading.component';
+import {RouterModule} from '@angular/router';
 
 
 
@@ -68,7 +69,8 @@ import { SingleHeadingComponent } from './components/single-heading/single-headi
     NgxChartsModule,
     ChartAllModule,
     AccumulationChartAllModule,
-    RangeNavigatorAllModule
+    RangeNavigatorAllModule,
+    RouterModule
   ],
   exports:[
     
