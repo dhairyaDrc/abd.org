@@ -11,8 +11,6 @@ import { CommonModule } from '@angular/common';
 import { HomeModule } from './home/home.module';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
-
-
 @NgModule({
   declarations: [
     AppComponent,
@@ -24,6 +22,7 @@ import { environment } from '../environments/environment';
     BrowserModule,
     BrowserAnimationsModule,
     AppRoutingModule,
+    BrowserAnimationsModule,
     CommonModule,
     SharedModule,
     HomeModule,

@@ -15,7 +15,6 @@ export class ExpandableContentComponent implements OnInit {
   @Input() image
   isExpand:boolean = false;
   ngOnInit(): void {
-    console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",this.image  );
     
   }
   readMore(){

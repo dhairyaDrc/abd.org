@@ -53,13 +53,11 @@
 
       <app-region-heading [country]="data.country" [data]="data.data" *ngIf="data.type=='regionHeading'">
       </app-region-heading>
-
-      <app-button *ngIf="data.type=='button'" [data]="data.data" [title]="data.title" (click)="goToNextChapter()"></app-button>
+      <app-video [data]="data.data" *ngIf="data.type=='video'" ></app-video>
+      <app-button *ngIf="data.type=='button'"  [data]="data.data"  [title]="data.title" (click)="goToNextChapter()"></app-button>
     </div>
 
-
-    <!-- <div *ngFor="let data of button"> -->
-    <!-- </div> -->
+    
 
   </div>
   <br><br><br><br><br><br><br>
