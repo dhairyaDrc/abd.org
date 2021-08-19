@@ -70,11 +70,12 @@ export class ReportComponent implements OnInit {
    
     window.scroll(0,0);
         if (this.param == 1) {
-          this.data=chapter1JsonData;
+          this.router.navigate(['/chapter2']);
+          // this.data=chapter1JsonData;
         }else if (this.param== 4) {
           // this.router.navigate(['/report']);
           this.router.navigate(['/appendixes-content']);
-          this.data=chapter4CardJsonData;
+          // this.data=chapter4CardJsonData;
         }else if (this.param == 3) {
           this.data=chapter4CardJsonData;
         }else if (this.param == 2){
@@ -91,6 +92,10 @@ export class ReportComponent implements OnInit {
           this.data=southeastasia;
         }else if (this.param==14){
           this.data=chapter3CardJsonData;
+        }else if(this.param==15){
+          this.data=chapter4CardJsonData;
+        }else if(this.param==16){
+          this.router.navigate(['/appendixes-content']);
         }
 
         this.param++;
