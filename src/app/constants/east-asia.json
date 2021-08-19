@@ -11,6 +11,7 @@
   {
     "title": "BY THE NUMBERS: EAST ASIA",
     "symbol": "$",
+    
     "digit1": 2.9,
     "tag1": "COMMITTED",
 
@@ -23,8 +24,8 @@
     "digit4": 1.1,
     "tag4": "COFINANCED",
 
-    "sign": "%",
-    "type": "currencyCounter"
+    "sign": "M",
+    "type": "regionCounter"
   },
 
   {

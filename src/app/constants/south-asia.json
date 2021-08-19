@@ -13,6 +13,7 @@
     {
         "heading": "BY THE NUMBERS: South Asia",
         "symbol":"$",
+
         "digit1":9.0,
         "tag1":"COMMITTED",
         
@@ -25,8 +26,8 @@
         "digit4":4.4,
         "tag4":"COFINANCED",
 
-        "tag":"B",
-        "type":"currencyCounter"
+        "sign":"B",
+        "type":"regionCounter"
     },
     {
         "data":"The economies of South Asia struggled during 2020 as COVID‑19 spread throughout the region, deeply affecting lives and livelihoods. Strict lockdowns disrupted economic activities, supply chains, and external demand. Countries that rely on international tourism, such as <a href='https://www.adb.org/countries/maldives/main' target='_blank'>Maldives</a>, <a href='https://www.adb.org/countries/nepal/main' target='_blank'>Nepal</a>, and <a href='https://www.adb.org/countries/sri-lanka/main' target='_blank'>Sri Lanka</a>, were particularly hard hit by border closures.",

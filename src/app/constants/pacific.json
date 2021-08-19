@@ -12,6 +12,7 @@
   {
     "title": "BY THE NUMBERS: PACIFIC",
     "symbol": "$",
+
     "digit1": 1.2,
     "tag1": "COMMITTED",
 
@@ -24,8 +25,8 @@
     "digit4": 225,
     "tag4": "COFINANCED",
 
-    "tag": "B",
-    "type": "currencyCounter"
+    "sign": "B",
+    "type": "regionCounter"
   },
 
   {
@@ -59,24 +60,24 @@
 
   {
     "title": "IN 2020, ADB’S COMMITMENTS IN THIS REGION WERE PRIMARILY IN THE FOLLOWING SECTORS:",
-    "symbol": "$",
-    "digit1": 41,
+    
+    "digit1": 55,
     "tag1": "COMMITTED",
 
-    "digit2": 16,
+    "digit2": 19,
     "tag2": "COVID‑19<br>RESPONSE",
 
-    "digit3": 14,
+    "digit3": 9,
     "tag3": "DISBURSED",
 
-    "digit4": 11,
+    "digit4": 8,
     "tag4": "COFINANCED",
 
-    "digit5": 3,
+    "digit5": 5,
     "tag5": "TRANSPORT",
 
 
-    "tag": "B",
+    "sign": "%",
     "type": "currencyCounter"
   },
   {

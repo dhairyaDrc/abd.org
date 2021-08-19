@@ -94,7 +94,6 @@ import { SingleHeadingComponent } from './components/single-heading/single-headi
     RegionHeadingComponent,
     MenuBarComponent,
     SingleHeadingComponent
-
   ]
 })
 export class SharedModule { }

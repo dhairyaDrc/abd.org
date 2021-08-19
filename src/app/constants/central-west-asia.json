@@ -1,4 +1,5 @@
-[{
+[
+  {
     "data": "CENTRAL AND WEST ASIA",
     "country": "Afghanistan, Armenia, Azerbaijan, Georgia, Kazakhstan, the Kyrgyz Republic, Pakistan, Tajikistan, Turkmenistan, Uzbekistan",
     "type": "regionHeading"
@@ -10,21 +11,22 @@
   },
   {
     "title": "BY THE NUMBERS: CENTRAL AND WEST ASIA",
+    "symbol": "$",
 
-    "digit1": 6,
+    "digit1": 6.0,
     "tag1": "COMMITTED",
 
-    "digit2": 4,
+    "digit2": 4.0,
     "tag2": "COVID‑19 RESPONSE",
 
-    "digit3": 5,
+    "digit3": 5.3,
     "tag3": "DISBURSED",
 
-    "digit4": 3,
+    "digit4": 3.7,
     "tag4": "COFINANCED",
 
-    "sign": "%",
-    "type": "currencyCounter"
+    "sign": "B",
+    "type": "regionCounter"
   },
   {
     "data": "Across Central and West Asia, the necessary public health responses to contain the spread of COVID‑19 have weighed heavily on economic growth, which contracted in most countries of the region in 2020.",
@@ -68,6 +70,7 @@
     "type": "paragraph"
   },
   {
+    "id": 2,
     "title": "In 2020, ADB’s commitments in this region were primarily in the following sectors:",
 
     "digit1": 34,

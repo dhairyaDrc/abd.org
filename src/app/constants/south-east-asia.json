@@ -13,6 +13,7 @@
     {
         "title": "BY THE NUMBERS: SOUTHEAST ASIA",
         "symbol": "$",
+
         "digit1": 11.6,
         "tag1": "COMMITTED",
     
@@ -25,8 +26,8 @@
         "digit4": 6.9,
         "tag4": "COFINANCED",
     
-        "tag": "B",
-        "type": "currencyCounter"
+        "sign": "B",
+        "type": "regionCounter"
       },
     
     {
@@ -73,7 +74,7 @@
         "digit4": 11,
         "tag4": "COFINANCED",
 
-        "digit5": 3,
+        "digit5": 5,
         "tag5": "TRANSPORT",
     
     

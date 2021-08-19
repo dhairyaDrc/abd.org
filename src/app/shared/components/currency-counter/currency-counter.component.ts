@@ -119,4 +119,5 @@ export class CurrencyCounterComponent implements OnInit {
 
   }
 
+
 }
