@@ -1243,17 +1243,20 @@ div.complexheader.regions h2 {
 /******** targets ************/
 /******** targets ************/
 
+
+
 .progress1 {
+  
   width: 80%;
   margin: 4rem auto 4rem auto;
-
-}
-
-.progress1.diversification div {
   border: 1px solid #d95c3b;
   padding: 1rem 1.5rem 1rem 1.5rem;
   margin-top: -0.6rem;
 }
+  /* 
+  .progress1.diversification div {
+  
+  } */
 
 
 
@@ -2669,7 +2672,7 @@ img.adbilogo {
 }
 
 img.cover {
-  /*width: 25%;*/
+  width: 25%;
   display: block;
   margin: 0 auto 1rem auto;
 

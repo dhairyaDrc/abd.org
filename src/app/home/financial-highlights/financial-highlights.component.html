@@ -19,8 +19,7 @@
 
     <div *ngFor="let item of value" class="fix" style="text-align: center; margin-top: -125px;">
         <br><br><br><br><br><br><br>
-        <!-- To Do [] Plz use NgStyle instead of ternary in style -->
-        <img [src]="item.image" style="{{item.isSmall ? 'width:50%' : 'width:100%'}}">
+        <img [src]="item.image" style="width: 50%;" [ngClass]="{width100: item.isSmall}"> 
     </div>
     
   <a href="#chapter1" class="next">

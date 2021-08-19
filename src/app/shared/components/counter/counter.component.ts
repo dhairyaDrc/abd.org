@@ -40,7 +40,7 @@ export class CounterComponent implements OnInit {
   numberCounter() {
     var currentNumber = $('#count').text();    
 
-    $({ numberValue: currentNumber }).animate({ numberValue: 89 }, {
+    $({ numberValue: currentNumber }).animate({ numberValue: 58 }, {
       duration: 1500,
       easing: 'linear',
       step: function (now) {
