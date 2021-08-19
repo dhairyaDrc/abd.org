@@ -72,10 +72,11 @@ export class ReportComponent implements OnInit {
         if (this.param == 1) {
           this.data=chapter1JsonData;
         }else if (this.param== 4) {
-          this.router.navigate(['/report']);
+          // this.router.navigate(['/report']);
+          this.router.navigate(['/appendixes-content']);
           this.data=chapter4CardJsonData;
         }else if (this.param == 3) {
-          this.data=chapter3CardJsonData;
+          this.data=chapter4CardJsonData;
         }else if (this.param == 2){
           this.router.navigate(['/chapter2']);
         }else if (this.param == 5){
