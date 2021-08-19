@@ -26,7 +26,7 @@
     "tag4": "COFINANCED",
 
     "tag": "B",
-    "type": "currencyCounter"
+    "type": "regionCounter"
   },
   {
     "data": "In 2020, ADB committed private sector investments for 38 projects in critical sectors such as health, agriculture, energy, finance, water, and other urban infrastructure and services. These investments covered 11 developing member countries (DMCs) and included 5 regional projects. The number of private sector projects in 2020 matched that of 2019 despite the pandemic, and the bank remains strongly committed to increasing the share of private sector operations to one third by 2024.",
@@ -148,8 +148,10 @@
     "type": "paragraph"
   },
   {
+    "title":"PROGRESS AGAINST STRATEGY 2030 TARGETS",
     "data": "In 2020, every $1 of ADB's own committed nonsovereign financing was matched by $2.12 in long-term cofinancing, up from $1.50 in 2019.",
     "digit": 2.12,
+    "gender":"COFINANCING",
     "sign": "$",
     "percentage": "",
     "type": "counter"
