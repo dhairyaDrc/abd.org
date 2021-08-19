@@ -27,7 +27,7 @@
       "type": "paragraph"
     }, {
       "title": "SUPPORTING ACCESS TO VACCINES",
-      "data": "ADB launched the <a href='https://www.adb.org/news/9-billion-adb-facility-help-members-access-and-distribute-covid-19-vaccines' target='blank'> $9 billion Asia Pacific Vaccine Access Facility (APVAX)</a> in December 2020 to help the bank’s developing members procure and deliver effective and safe COVID‑19 vaccines in a rapid and equitable manner. Its requirements include a comprehensive needs assessment, a plan for inclusive vaccine allocation, and arrangements for coordination among development partners.",
+      "data": "ADB launched the <a href='https://www.adb.org/news/9-billion-adb-facility-help-members-access-and-distribute-covid-19-vaccines' target='blank'> $9 billion Asia Pacific Vaccine Access Facility (APVAX)</a> in December 2020 to help the bank’s developing members procure and deliver effective and safe COVID‑19 vaccines in a rapid and equitable manner. Its requirements include a comprehensive needs assessment, a plan for inclusive vaccine allocation, and arrangements for coordination among development partners.<br><br>To implement APVAX, ADB is working closely with the COVID‑19 Vaccines Global Access Facility; Gavi, the Vaccine Alliance; the World Bank Group; the World Health Organization (WHO); and other bilateral and  multilateral partners.<br><br>The bank will also collaborate with partners, including the United Nations Children’s Fund (UNICEF) and  WHO, to implement a further $20.3 million in technical assistance to help developing members establish systems for efficient and equitable vaccine distribution. The funds will help members assess health systems,  develop readiness plans, and strengthen logistics and monitoring.<br><br>To support vaccine access further and help keep crucial supply lines flowing, ADB made available a $500  million import facility for the purchase of vaccines and related products such as syringes. The facility  provides AAA-guarantees to mitigate payment risks in developing economies.",
       "type": "expand"
     }, {
       "data": "To implement APVAX, ADB is working closely with the COVID‑19 Vaccines Global Access Facility; Gavi, the Vaccine Alliance; the World Bank Group; the World Health Organization (WHO); and other bilateral and multilateral partners.",
@@ -157,7 +157,7 @@
       "data": "A regional technical assistance project totaling $68.6 million helped provide supplies as well as build short- to medium-term capacity and prepare health systems for pandemics. The scope of the assistance was later expanded to help DMCs prepare for vaccine rollouts.",
       "type": "paragraph"
     }, {
-      "data": "ADB also committed grants for emergency support from the <a href='https://www.adb.org/what-we-do/funds/asia-pacific-disaster-response-fund-apdrf' target='blank'> Asia Pacific Disaster</a> Response Fund and the <a href='https://www.adb.org/what-we-do/funds/japan-fund-for-poverty-reduction' target='blank'>Japan Fund for Poverty Reduction</a>. The Government of Japan contributed $75 million to both funds. Grants from the <a href='https://www.adb.org/what-we-do/funds/adf/main' target='blank'>Asian Development Fund</a> funded CPRO and other pandemic-related projects.",
+      "data": "ADB also committed grants for emergency support from the <a href='https://www.adb.org/what-we-do/funds/asia-pacific-disaster-response-fund-apdrf' target='blank'> Asia Pacific Disaster Response Fund</a> and the <a href='https://www.adb.org/what-we-do/funds/japan-fund-for-poverty-reduction' target='blank'>Japan Fund for Poverty Reduction</a>. The Government of Japan contributed $75 million to both funds. Grants from the <a href='https://www.adb.org/what-we-do/funds/adf/main' target='blank'>Asian Development Fund</a> funded CPRO and other pandemic-related projects.",
       "type": "paragraph"
     }, {
       "data": "<b>ADB committed $2.9 billion to private sector financing related to the pandemic.</b> Through these loans and guarantees, the bank increased its support for trade and supply chains and for microfinance for vulnerable borrowers, and directly financed companies working to overcome the challenges posed by the pandemic.",
@@ -187,8 +187,8 @@
       "data": "OPERATIONAL PRIORITIES IN THE CONTEXT OF COVID‑19",
       "type": "heading"
     }, {
-      "data": "The effects of the COVID‑19 pandemic were intensified by the ongoing core development challenges that ADB has been helping DMCs to address through the seven operational priorities of its long-term strategy, Strategy 2030. The challenges include deficiencies in health, education, and social protection systems. The pandemic has also highlighted the importance of continuing to tackle underlying development issues to support an inclusive and sustainable recovery.",
-      "type": "paragraph"
+      "data": "The effects of the COVID‑19 pandemic were intensified by the ongoing core development challenges that ADB has been helping DMCs to address through the seven operational priorities of its long-term strategy, <a href='https://www.adb.org/about/strategy-2030-operational-priorities' target='_blank'>Strategy  2030</a>. The challenges include deficiencies in health, education, and social protection systems. The  pandemic has also highlighted the importance of continuing to tackle underlying development issues to support an inclusive and sustainable recovery.",
+       "type": "paragraph"
     }, {
       "data": "covid_chart3.png",
       "type": "image"
@@ -197,12 +197,14 @@
       "image": "op1_color.png",
       "type": "logoHeading"
     }, {
-      "data": "",
-      "type": ""
-    }, {
       "data": "COVID‑19 posed serious setbacks to the development progress and poverty reduction efforts in many DMCs. To help ease the pandemic’s heavy burden on the poor and vulnerable, ADB ramped up its investments in poverty reduction and social inclusion. To make quality health care more accessible and inclusive, sector interventions were aimed not only at emergency response during the onset of COVID‑19 but also toward strengthening health systems, increasing resilience to future pandemics. In addition, ADB committed 35 social protection projects in 2020, more than the combined number of such projects in 2017–2019. Of the 35 projects, 24 used the CPRO to support vulnerable populations in DMCs.",
       "type": "paragraph"
-    }, {
+    }, 
+    {
+      "data":"<a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.adb.org%2Far2020%2Fdigital&amp;via=ADB_HQ&amp;text=ADB%20committed%2035%20social%20protection%20projects%20in%202020%2C%20more%20than%20in%202017-2019%20combined.' title='Tweet this' target='_blank'>ADB committed 35 social protection projects in 2020, more than in 2017–2019 combined.</a>",
+      "type":"twitter"
+    },
+    {
       "data": "<b> <a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.adb.org%2Far2020%2Fdigital&amp;via=ADB_HQ&amp;text=ADB%20committed%2035%20social%20protection%20projects%20in%202020%2C%20more%20than%20in%202017-2019%20combined.' title='Tweet this' target='_blank'>ADB committed 35 social protection projects in 2020, more than in 2017–2019 combined.</a> </b>",
       "type": "twittter"
     }, {
