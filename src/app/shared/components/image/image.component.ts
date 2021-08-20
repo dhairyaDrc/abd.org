@@ -13,7 +13,7 @@ export class ImageComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {   
-    console.log("image : >>>> ",this.image);
+    // console.log("image : >>>> ",this.image);
      
   }
 

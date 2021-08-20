@@ -18,7 +18,7 @@ export class BoardOfDirectorsComponent implements OnInit {
   ngOnInit(): void {
     this.data = boardOfDirectorsJsonData;
 
-    console.log("boardOfDirectorsJsonData : ",this.data);
+    // console.log("boardOfDirectorsJsonData : ",this.data);
     
   }
 

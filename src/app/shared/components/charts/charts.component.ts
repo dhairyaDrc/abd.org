@@ -30,7 +30,7 @@ export class ChartsComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    console.log("New Data", this.data);
+    // console.log("New Data", this.data);
 
     // let that=this.data
     // Object.assign(this, { that });

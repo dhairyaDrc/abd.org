@@ -11,7 +11,7 @@ export class VideoComponent implements OnInit {
   constructor() { }
 @Input() data
   ngOnInit(): void {
-    console.log("videoooooooooooooooooooooooooooooo", this.data);
+    // console.log("videoooooooooooooooooooooooooooooo", this.data);
   }
 
   

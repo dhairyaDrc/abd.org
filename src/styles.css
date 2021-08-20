@@ -191,11 +191,9 @@ div.content {
   padding-right: 1rem;
 }
 
-ol,
-ul {
+ol,ul {
   padding-left: 0px !important;
   font-size: 0.9rem !important;
-  margin-bottom: 400px !important;
 }
 
 section {

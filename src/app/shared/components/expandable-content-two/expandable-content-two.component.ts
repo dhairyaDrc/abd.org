@@ -15,7 +15,7 @@ export class ExpandableContentTwoComponent implements OnInit {
 isExpand:boolean = false;
 
   ngOnInit(): void {
-  console.log("image>>>>>>>>>>" , this.image);
+  // console.log("image>>>>>>>>>>" , this.image);
   
   }
 

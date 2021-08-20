@@ -25,7 +25,7 @@ export class MessageComponent implements OnInit {
     this.tagLine = presidentsMessage[16].tagLine;
     this.imageGrid = presidentsMessage[16].imageGrid;
 
-    console.log("tagline : ",presidentsMessage[16].tagLine);
+    // console.log("tagline : ",presidentsMessage[16].tagLine);
     
   }
 

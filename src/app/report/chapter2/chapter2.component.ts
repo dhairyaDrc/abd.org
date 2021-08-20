@@ -18,7 +18,7 @@ export class Chapter2Component implements OnInit {
 
   ngOnInit(): void {
     this.chapter2Data = chapter2CardJsonData;
-    console.log("chapter2CardJsonData : ",chapter2CardJsonData);
+    // console.log("chapter2CardJsonData : ",chapter2CardJsonData);
     
   }
 

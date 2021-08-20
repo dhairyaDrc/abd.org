@@ -56,18 +56,18 @@ export class AppendixesContentComponent implements OnInit {
 
     this.list.map(el => {
       this.id = el.id;
-      console.log("\n id : ",this.id);
+      // console.log("\n id : ",this.id);
       
     })
 
-    console.log("appendixesListJsonData : ",this.data);
+    // console.log("appendixesListJsonData : ",this.data);
 
 
     
   }
 
   showImage(img: any) {
-    console.log('image', img)
+    // console.log('image', img)
     this.sourceImages = img;
     this.isShowImage ? this.isShowImage = false : this.isShowImage = true;;
   }

@@ -34,15 +34,15 @@ export class ReportComponent implements OnInit {
     this.button = buttonJsonData;
     // this.chapter2Data = chapter2CardJsonData;
     
-    console.log("chapter1JsonData >>>> ",chapter1JsonData,"\nthis.buttonJsonData : ",buttonJsonData,"\nchapter2 cards >>>>> ",chapter2CardJsonData);
+    // console.log("chapter1JsonData >>>> ",chapter1JsonData,"\nthis.buttonJsonData : ",buttonJsonData,"\nchapter2 cards >>>>> ",chapter2CardJsonData);
 
     this.route.queryParams
       .subscribe(params => {
-        console.log(params.id);
+        // console.log(params.id);
         this.param = params.id;
         if (params.id == 1) {
           this.data=chapter1JsonData;
-          console.log("this.data",this.data);
+          // console.log("this.data",this.data);
           
         }else if (params.id == 4) {
           this.data=chapter4CardJsonData;

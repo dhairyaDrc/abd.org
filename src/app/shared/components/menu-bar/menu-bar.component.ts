@@ -61,7 +61,7 @@ export class MenuBarComponent implements OnInit {
       if (id == 1) {
         // this.data=chapter1JsonData;
         this.router.navigate(['/report'], { queryParams: { id: 1 } });
-        console.log("this.data",this.data);
+        // console.log("this.data",this.data);
         
       }else if (id == 4) {
         this.router.navigate(['/report'], { queryParams: { id: 4 } });

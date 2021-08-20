@@ -14,7 +14,7 @@ export class RegionTitleComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    console.log("this.regionTitle",this.regionTitle);
+    // console.log("this.regionTitle",this.regionTitle);
     
   }
 
