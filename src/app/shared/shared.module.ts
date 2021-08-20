@@ -13,12 +13,9 @@ import { QuoteComponent } from './components/quote/quote.component';
 import { ShadeKnowledgeComponent } from './components/shade-knowledge/shade-knowledge.component';
 import { CaptionComponent } from './components/caption/caption.component';
 import { ButtonComponent } from './components/button/button.component';
-import { ExpandableContentTwoComponent } from './expandable-content-two/expandable-content-two.component';
-import { ShadeKnowledgeTwoComponent } from './shade-knowledge-two/shade-knowledge-two.component';
 import { RegionTitleComponent } from './components/region-title/region-title.component';
 import { RegionCounterComponent } from './components/region-counter/region-counter.component';
 import { SignatureComponent } from './components/signature/signature.component';
-// import { CurrencyCounterComponent } from './components/currency-counter/currency-counter.component';
 import { ChartsComponent } from './components/charts/charts.component';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
 import { ChartAllModule, AccumulationChartAllModule, RangeNavigatorAllModule } from '@syncfusion/ej2-angular-charts';
@@ -29,6 +26,8 @@ import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
 import { AppendixesListComponent } from './components/appendixes-list/appendixes-list.component';
 import { SingleHeadingComponent } from './components/single-heading/single-heading.component';
 import {RouterModule} from '@angular/router';
+import { ExpandableContentTwoComponent } from './components/expandable-content-two/expandable-content-two.component';
+import { ShadeKnowledgeTwoComponent } from './components/shade-knowledge-two/shade-knowledge-two.component';
 
 
 

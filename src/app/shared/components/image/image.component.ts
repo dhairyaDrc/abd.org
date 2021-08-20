@@ -12,7 +12,9 @@ export class ImageComponent implements OnInit {
   @Input() data;
   constructor() { }
 
-  ngOnInit(): void {    
+  ngOnInit(): void {   
+    console.log("image : >>>> ",this.image);
+     
   }
 
 }
