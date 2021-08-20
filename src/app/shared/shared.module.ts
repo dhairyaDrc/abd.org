@@ -30,7 +30,6 @@ import { ExpandableContentTwoComponent } from './components/expandable-content-t
 import { ShadeKnowledgeTwoComponent } from './components/shade-knowledge-two/shade-knowledge-two.component';
 
 
-
 @NgModule({
   declarations: [
     
@@ -58,10 +57,7 @@ import { ShadeKnowledgeTwoComponent } from './components/shade-knowledge-two/sha
     RegionHeadingComponent,
     MenuBarComponent,
     AppendixesListComponent,
-    SingleHeadingComponent,
-   
-    
-  
+    SingleHeadingComponent  
   ],
   imports: [
     CommonModule,
@@ -71,8 +67,7 @@ import { ShadeKnowledgeTwoComponent } from './components/shade-knowledge-two/sha
     RangeNavigatorAllModule,
     RouterModule
   ],
-  exports:[
-    
+  exports:[    
     ImageComponent,
     ParagraphComponent,
     SimpleHeadingComponent,

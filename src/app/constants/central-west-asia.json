@@ -1,5 +1,4 @@
-[
-  {
+[{
     "data": "CENTRAL AND WEST ASIA",
     "country": "Afghanistan, Armenia, Azerbaijan, Georgia, Kazakhstan, the Kyrgyz Republic, Pakistan, Tajikistan, Turkmenistan, Uzbekistan",
     "type": "regionHeading"
@@ -13,7 +12,7 @@
     "title": "BY THE NUMBERS: CENTRAL AND WEST ASIA",
     "symbol": "$",
 
-    "digit1": 6.0,
+    "digit1": 6.6,
     "tag1": "COMMITTED",
 
     "digit2": 4.0,
@@ -33,7 +32,7 @@
     "type": "paragraph"
   },
   {
-    "data": "Hydrocarbon exporters such as <a _ngcontent-vbv-c42=' href='https://www.adb.org/countries/azerbaijan/main' target='_blank'>Azerbaijan</a>, <a _ngcontent-vbv-c42=' href='https://www.adb.org/countries/kazakhstan/main' target='_blank'>Kazakhstan</a>, <a _ngcontent-vbv-c42=' href='https://www.adb.org/countries/turkmenistan/main' target='_blank'>Turkmenistan</a>, and <a _ngcontent-vbv-c42=' href='https://www.adb.org/countries/uzbekistan/main' target='_blank'>Uzbekistan</a> were hampered by the globally low oil price. For hydrocarbon importers, economic growth took a hit on the back of a collapse in tourism (as in <a _ngcontent-vbv-c42=' href='https://www.adb.org/countries/armenia/main' target='blank'>Armenia</a> and <a _ngcontent-vbv-c42=' href='https://www.adb.org/countries/georgia/main' target='blank'>Georgia</a>) and a sharp drop in remittances (as in the <a _ngcontent-vbv-c42= 'href='https://www.adb.org/countries/kyrgyz-republic/main' target='_blank'>Kyrgyz Republic</a> and <a _ngcontent-vbv-c42='href='https://www.adb.org/countries/tajikistan/main' target='_blank'>Tajikistan</a>).",
+    "data": "Hydrocarbon exporters such as <a  href='https://www.adb.org/countries/azerbaijan/main' target='_blank'>Azerbaijan</a>, <a  href='https://www.adb.org/countries/kazakhstan/main' target='_blank'>Kazakhstan</a>, <a  href='https://www.adb.org/countries/turkmenistan/main' target='_blank'>Turkmenistan</a>, and <a  href='https://www.adb.org/countries/uzbekistan/main' target='_blank'>Uzbekistan</a> were hampered by the globally low oil price. For hydrocarbon importers, economic growth took a hit on the back of a collapse in tourism (as in <a  href='https://www.adb.org/countries/armenia/main' target='blank'>Armenia</a> and <a  href='https://www.adb.org/countries/georgia/main' target='blank'>Georgia</a>) and a sharp drop in remittances (as in the <a href='https://www.adb.org/countries/kyrgyz-republic/main' target='_blank'>Kyrgyz Republic</a> and <a href='https://www.adb.org/countries/tajikistan/main' target='_blank'>Tajikistan</a>).",
     "type": "paragraph"
   },
 
@@ -188,7 +187,7 @@
     "data": "ADB also committed $235 million to develop a 26.6-kilometer bus rapid transit corridor and associated facilities in Karachi, Pakistan. The project will improve livability for about 1.5 million people by saving time for passengers, improving air quality, and reducing carbon emissions through an innovative waste-to-fuel scheme.",
     "type": "paragraph"
   },
-  
+
   {
     "data": "",
     "subContent": "See how a new low-emission bus system in Peshawar, Pakistan, is providing faster, safer, cleaner, and cheaper travel. It has been jointly financed by ADB, Agence Française de Développement, and the government of Khyber Pakhtunkhwa.",
@@ -252,8 +251,8 @@
   {
     "title": "EFFICIENCIES BOOST REGIONAL POWER SUPPLY",
     "image": "cwrd_box.jpg",
-    "para1": "A woman works at a textile factory in Turkmenistan. A revitalized electricity grid will provide Turkmenistan  with more reliable power and will increase power exports to Afghanistan and other neighboring countries.<br><br>Energy-rich Turkmenistan, which possesses the world’s fourth- largest reserves of natural gas, is in a unique position to export electricity to neighboring countries. Boosting exports is crucial to the region’s energy security and to tackling energy poverty in countries like Afghanistan, where millions are still without access to electricity.<br><br>With a $500 million loan from ADB, Turkmenistan is revitalizing its transmission grid to improve the reliability of its power supply and increase electricity exports to its neighbors.<br<br>Despite the challenging circumstances of 2020, Turkmenistan’s Ministry of Energy achieved a number of contract and procurement efficiencies on the project. These resulted in about $100 million in savings on the signed value of the contracts against the engineering estimates. The savings will be used to rehabilitate four additional substations and an extra 380 kilometers of transmission lines from Mary to Ashgabat.<br><br>In 2021, Turkmenistan’s strengthened network is expected to deliver an additional 1 gigawatt-hour of electricity to Afghanistan. Power exports to Afghanistan will increase to 4 gigawatt-hours by 2030— enough electricity to power about 25,000 additional households for a year.<br><br>“The successful completion of the project will create a single energy ring, which in turn will increase the reliability of energy supply to domestic consumers and increase Turkmenistan’s export opportunities,” says Suleyman Bayrammyradov, Deputy Head of the International Department within Turkmenistan’s Ministry ofEnergy.",
-    "type": "shadeKnowledge"
+    "data": "A woman works at a textile factory in Turkmenistan. A revitalized electricity grid will provide Turkmenistan  with more reliable power and will increase power exports to Afghanistan and other neighboring countries.<br><br>Energy-rich Turkmenistan, which possesses the world’s fourth- largest reserves of natural gas, is in a unique position to export electricity to neighboring countries. Boosting exports is crucial to the region’s energy security and to tackling energy poverty in countries like Afghanistan, where millions are still without access to electricity.<br><br>With a $500 million loan from ADB, Turkmenistan is revitalizing its transmission grid to improve the reliability of its power supply and increase electricity exports to its neighbors.<br<br>Despite the challenging circumstances of 2020, Turkmenistan’s Ministry of Energy achieved a number of contract and procurement efficiencies on the project. These resulted in about $100 million in savings on the signed value of the contracts against the engineering estimates. The savings will be used to rehabilitate four additional substations and an extra 380 kilometers of transmission lines from Mary to Ashgabat.<br><br>In 2021, Turkmenistan’s strengthened network is expected to deliver an additional 1 gigawatt-hour of electricity to Afghanistan. Power exports to Afghanistan will increase to 4 gigawatt-hours by 2030— enough electricity to power about 25,000 additional households for a year.<br><br>“The successful completion of the project will create a single energy ring, which in turn will increase the reliability of energy supply to domestic consumers and increase Turkmenistan’s export opportunities,” says Suleyman Bayrammyradov, Deputy Head of the International Department within Turkmenistan’s Ministry ofEnergy.",
+    "type": "expandTwo"
 
   },
   {
