@@ -32,7 +32,7 @@
         "type": "tag"
     },
     {
-        "title": "Alternate Directors"
+        "subTitle": "Alternate Directors"
     },
     {
         "img1": "assets/images/board/aed1_1.jpg",
@@ -129,9 +129,9 @@
         "data": "Code of Conduct for Directors, Alternate Directors, and the President",
         "para1": "The Ethics Committee (EC) completed its review of the Board Code of Conduct, Ethics Committee and Procedures, and Associated Guidelines applicable to ADB Directors, Alternate Directors, and the President. The review recommended amendments to bring these standards and procedures into line with the best practices of ADB’s peer institutions and the ADB Staff Code of Conduct. The changes included the requirement to complete a declaration of compliance relating to financial interests, and the duty to report any form of misconduct through appropriate channels. Amendments relating to the EC and the Office of Anticorruption and Integrity (OAI) included establishing a referral mechanism between the EC and OAI, updating guidelines, and defining the specific role and responsibilities of the EC in future misconduct investigations. The Board approved the revised Code of Conduct, Ethics Committee and Procedures, and Associated Guidelines in January 2020. They became effective on 13 February 2020.",
         "type": "insideheading"
-    },
-    {
-        "data":"Next: FINANCIAL HIGHLIGHTS",
+    },{
+        "title": "Next",
+        "data":"FINANCIAL HIGHLIGHTS",
         "type":"button"
     }
 ]

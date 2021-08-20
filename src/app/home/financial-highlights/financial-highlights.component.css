@@ -1,6 +1,6 @@
 .width50{
-    width: 50%;
+    width: 100%;
 }
-.width100{
-    width: 100% !important;
+.width50{
+    width: 50% !important;
 }

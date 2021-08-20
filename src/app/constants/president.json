@@ -77,7 +77,8 @@
         "type": "footer"
     },
     {
-        "data":"Next: Board of directors",
+        "title": "Next",
+        "data":"Board of directors",
         "type":"button"
     }
 ]

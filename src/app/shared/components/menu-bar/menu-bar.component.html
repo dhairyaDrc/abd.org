@@ -11,7 +11,7 @@
   <nav id="real-menu" class="real-menu" [ngClass]="{'show-menu': isShowMenu}">
     <ul style="cursor: pointer;">
       <li>
-        <a href="#home">Home</a>
+        <a [routerLink]="['/']">Home</a>
       </li>
       <li>
         <a (click)="goToPresidentsMessage()">President's Message</a>
@@ -81,7 +81,7 @@
       <span>Menu</span>
     </div>
     <div class="copyright">
-      <a href="#home">ADB&nbsp;Annual&nbsp;Report&nbsp;<span>2020</span></a>
+      <a [routerLink]="['/']">ADB&nbsp;Annual&nbsp;Report&nbsp;<span>2020</span></a>
     </div>
     <div id="social-share" class="share" (click)="openSocialMenu()">
       <span>Share</span>
