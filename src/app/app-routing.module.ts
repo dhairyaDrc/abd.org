@@ -15,6 +15,10 @@ const routes: Routes = [
   {
     path: '',
     loadChildren: () => HomeModule,
+  },
+  {
+    path: "**",
+    component: HomeComponent
   }
 ];
 
