@@ -379,6 +379,44 @@ img {
 
 }
 
+.secondHeading{
+  margin-bottom: -30px;
+}
+
+.counter-card{
+  width: 100px;
+}
+
+.financial-images{
+  text-align: center; 
+  margin-top: -125px;
+}
+
+.financial-image{
+  width: 100%;
+}
+
+.charts-title{
+  text-align: center; font-weight: 400;
+}
+
+.charts-money{
+  text-align: center; font-weight: 600;
+}
+
+.both-charts{
+  display:block;  
+  width: 92%
+}
+
+.num{
+  color: #222;
+}
+
+.counter-data{
+  color: #ea522c;
+}
+
 /************** sidenav ***************/
 /************** sidenav ***************/
 /************** sidenav ***************/
@@ -501,6 +539,7 @@ nav ul li a:hover {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   transition: ease-in 0.2s all;
+  cursor: pointer;
 }
 
 
@@ -716,6 +755,7 @@ a.next {
   -webkit-font-feature-settings: 'lnum';
   -moz-font-feature-settings: 'lnum';
   font-variant-numeric: lining-nums;
+  cursor: pointer;
 }
 
 a.next:hover {
@@ -792,6 +832,10 @@ h5+p {
 
 img.topimg {
   width: 100%;
+}
+
+.president{
+  display: flex;
 }
 
 img.president {
@@ -1498,7 +1542,7 @@ div.numbers p.num {
   line-height: 2.6rem;
   margin-bottom: 0.5rem;
   margin-top: 0;
-  color: #ea522c;
+  color: #222;
 }
 
 div.numbers .numbergroup div.sub {

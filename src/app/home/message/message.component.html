@@ -2,7 +2,8 @@
   <div class="content">
     <div *ngFor="let data of data">
       <app-single-heading [title]="data.heading" *ngIf="data.type=='singleHeading'"></app-single-heading>
-      <div class="president" style="display: flex;">
+      <div class="president">
+        <!-- style="display: flex;" -->
         <app-image [image]="data.image" [tag]="data.tag" *ngIf="data.type=='image'"></app-image>
       </div>
       <app-paragraph [data]="data.data" *ngIf="data.type=='paragraph'"></app-paragraph>

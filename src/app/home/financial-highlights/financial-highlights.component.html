@@ -10,16 +10,19 @@
     </h3>
     <div class="numbersgroup">
       <div *ngFor="let data of homeData" class="contentCard">
-        <app-counter-card  *ngIf="data.type == 'counter-card'" style="width: 100px;" [duration]="1500" [digit]="data.money" [data]="data.data"
+        <!-- style="" -->
+        <app-counter-card  *ngIf="data.type == 'counter-card'" class="counter-card"  [duration]="1500" [digit]="data.money" [data]="data.data"
           [currency]="data.currency" [money]="data.money" [letter]="data.letter" [id]="data.id"></app-counter-card>
           <app-charts [data]="data.data" *ngIf="data.type=='chart'"></app-charts>
       </div>
     </div>
   </div>
 
-    <div *ngFor="let item of value" class="fix" style="text-align: center; margin-top: -125px;">
+    <div *ngFor="let item of value" class="fix financial-images">
+      <!-- style="text-align: center; margin-top: -125px;" -->
         <br><br><br><br><br><br><br>
-        <img [src]="item.image" style="width: 100%;" [ngClass]="{width50: item.isSmall}"> 
+        <img [src]="item.image" class="financial-image"  [ngClass]="{width50: item.isSmall}"> 
+        <!-- style="width: 100%;" -->
     </div>
     
   <a href="#chapter1" class="next">
